@@ -1,3 +1,10 @@
+# 🥇 Winner of INT20H Hackathon – MainBackend
+
+This project **won 1st place** at the **INT20H Hackathon** 🏆  
+It showcases the integration of AI (ChatGPT) with GitHub to fully automate project scaffolding, repository creation, and architecture generation.
+
+---
+
 # MainBackend
 
 **MainBackend** is the backend service that powers an AI-driven assistant (based on ChatGPT) capable of fully managing and generating GitHub repositories. It allows seamless integration with your GitHub account and enables the AI to:
